@@ -8,7 +8,7 @@ export default function Home() {
       <header className="w-full p-6 animate-[fadeIn_0.8s_ease-out_forwards]">
         <div className="max-w-7xl mx-auto">
           <Image
-            src="https://res.cloudinary.com/druohnmyv/image/upload/v1758813022/samfolder3_6_dbcju7.png"
+            src="https://res.cloudinary.com/druohnmyv/image/upload/v1758815196/Screenshot_2025-08-09_at_10.17.00_PM-removebg-preview_hzizkf.png"
             alt="Logo"
             width={160}
             height={48}
